@@ -9,3 +9,5 @@ Futuremore, we explored different action scenarios on orders from different prof
 
 ## About the Data
 The [dataset](https://data.mendeley.com/datasets/8gx2fvg2k6/5) comes from a smart supply chain company named DataCo Global. The data covers areas of important registered activities: Provisioning, Production, Sales, Commercial Distribution. It also allows the correlation of Structured Data with Unstructured Data for knowledge generation.
+
+![image](https://user-images.githubusercontent.com/62463964/171065803-a9ba57bb-8226-405c-ab03-042fe9189dcc.png)
