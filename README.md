@@ -9,10 +9,11 @@ Futuremore, we explored different action scenarios on orders from different prof
 
 In addition, we also built a [dashboard](https://public.tableau.com/views/Dashboard-DataCoBusinessOverview/Dashboard-DataCoBusinessOverview?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link) to show a overview of the business.
 
-
+<img src="Dashboard - DataCo Business Overview.jpg" width="600" height="480">
 
 ## About the Data
 The [dataset](https://data.mendeley.com/datasets/8gx2fvg2k6/5) comes from a smart supply chain company named DataCo Global. The data covers areas of important registered activities: Provisioning, Production, Sales, Commercial Distribution. It also allows the correlation of Structured Data with Unstructured Data for knowledge generation.
+
 <img src="Dataset Structure.jpg" width="800" height="400">
 
 References:
